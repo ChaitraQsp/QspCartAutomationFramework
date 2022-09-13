@@ -19,6 +19,8 @@ public class AddToCartTest {
 	{
 		System.out.println("product removed");
 		System.out.println("this is engineer 1");
+		
+		System.out.println("this is sample");
 	}
 
 }
