@@ -8,7 +8,10 @@ public class AddToCartTest {
 	public void addToCartTest()
 	{
 		System.out.println("Product Added");
+
 		System.out.println("This is eng 1");
+
+		System.out.println("This is engineer 2");
 	}
 	
 	@Test
